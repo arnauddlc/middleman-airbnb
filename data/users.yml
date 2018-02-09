@@ -1,4 +1,6 @@
-- name: 'Sébastien Saunier'
-  github_nickname: 'ssaunier'
-- name: 'Boris Paillard'
-  github_nickname: 'Papillard'
+- name: 'Mirha Masala'
+  github_nickname: 'mirhamasala'
+  likes: ['Surfing', 'Blogging', 'g33ky stuff' , 'coding in Ruby']
+- name: 'Arnaud de La Chaise'
+  github_nickname: 'arnauddlc'
+  likes: ['Dogs', 'Coding of course', 'Coffee']
